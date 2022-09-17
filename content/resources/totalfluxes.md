@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-72-groundwater-hydrology-fall-2005/68c8a1fa146faae90b4d486246b39044_TotalFluxes.m
+file: /media/courses/1-72-groundwater-hydrology-fall-2005/68c8a1fa146faae90b4d486246b39044_TotalFluxes.m
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Bangladesh Study
 parent_type: CourseSection
@@ -13,4 +14,6 @@ title: TotalFluxes.m
 uid: 68c8a1fa-146f-aae9-0b4d-486246b39044
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

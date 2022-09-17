@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This assignment section includes the assignment files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

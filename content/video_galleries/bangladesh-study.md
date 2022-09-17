@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section contains the video and presentations of a case study and
+  field trip recently undertaken in Bangladesh.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -19,9 +21,9 @@ These materials are from a case study and field trip recently undertaken in Bang
 
 *   Bangladesh Assignment 1 - Problem Set ({{% resource_link 24f18da5-8e19-29b3-62e8-9c0f704be33d "PDF" %}}), Coding Examples ({{% resource_link 455ad380-dfd3-3bcb-7049-ddc7dd7b5d00 "PDF" %}}), Flux Coding Instructions ({{% resource_link 921298e6-83e5-8ca4-677b-49f897c36a15 "PDF" %}}), TotalFluxes.m ({{% resource_link 68c8a1fa-146f-aae9-0b4d-486246b39044 "M" %}})
     
-*   Groundwater Dynamics and Arsenic Contamination in Bangladesh (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 71064474-83a3-a5cc-7d58-f1abaef1de96 "PDF - 2.5 MB" %}})
+*   Groundwater Dynamics and Arsenic Contamination in Bangladesh ({{% resource_link 71064474-83a3-a5cc-7d58-f1abaef1de96 "PDF - 2.5 MB" %}})
     
-*   Presentation 1 - Bangladesh Arsenic Case Study: Part 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e4c71a01-7a4d-c7ce-f646-d3a79c2bc655 "PDF - 2.4 MB" %}})
+*   Presentation 1 - Bangladesh Arsenic Case Study: Part 1 ({{% resource_link e4c71a01-7a4d-c7ce-f646-d3a79c2bc655 "PDF - 2.4 MB" %}})
     
 *   Presentation 1 - Bangladesh Arsenic Case Study: Part 2 ({{% resource_link 2ff3574d-c20a-5ae9-28dc-b669130b4d17 "PDF - 2.0 MB" %}})
     

@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section offers videos from the class field trip to the Cape Cod,
+  MA USGS experimental site and Waquoit Bay National Estuary.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ This year, the class was given assignments to complete in the context of the fie
 *   Waquoit Bay Follow-up Lab Assignment ({{% resource_link d96892a9-3833-1623-4fcc-6825a1ae4364 "PDF" %}}), Solution ({{% resource_link 1f929074-46e3-bd2c-9f3f-881adaad8126 "PDF" %}}), and Class Data ({{% resource_link 4ef717d7-bb8d-e8e0-6606-8e5daf8fa340 "XLS" %}})
     
 
-These videos are all from the 2004 class field trip to the Cape Cod, MA USGS experimental site and Waquoit Bay National Estuary. The class was given a supplemental handout for the tour. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 40cf4d7c-416d-a654-aff8-7208ee024d09 "PDF - 3.1 MB" %}})
+These videos are all from the 2004 class field trip to the Cape Cod, MA USGS experimental site and Waquoit Bay National Estuary. The class was given a supplemental handout for the tour. ({{% resource_link 40cf4d7c-416d-a654-aff8-7208ee024d09 "PDF - 3.1 MB" %}})
 
 Cape Cod Field Trip Video Samples
 ---------------------------------

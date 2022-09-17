@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The syllabus section includes course overview, guidelines, and gradings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
